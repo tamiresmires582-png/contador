@@ -1,6 +1,9 @@
 # 🔢 Super Contador
 
 Este é um projeto interativo desenvolvido para praticar estruturas de repetição em JavaScript. O utilizador define um início, um fim e o "passo" (intervalo), e o sistema realiza a contagem automaticamente com emojis.
+![Demonstração do Projeto](Captura%20de%20tela%202026-04-22%20192948.png)
+
+
 
 ## 🚀 Tecnologias Utilizadas
 * **HTML5** (Estrutura)
